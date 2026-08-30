@@ -19,7 +19,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.11.4</junit.version>
 
-        <sonar.projectKey>cicd-sonarqube-docker-app</sonar.projectKey>
+        <sonar.projectKey>CI-CD-SonarQube-Docker-App</sonar.projectKey>
         <sonar.projectName>CI-CD SonarQube Docker App</sonar.projectName>
         <sonar.coverage.jacoco.xmlReportPaths>
             target/site/jacoco/jacoco.xml
